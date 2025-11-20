@@ -1,0 +1,25 @@
+*
+{
+    background-color: sandybrown;
+}
+h1{
+    background-color: black;
+    border: 5px solid;
+    text-align:center ;
+    width: auto;
+    padding: auto;
+    
+}
+p,form,table,li
+{
+    color: red;
+    font-style: italic;
+    text-align: center;
+}
+img
+{
+    border: 10px;
+  padding: 20px;
+  width: 150px;
+  height: 150px;
+}
